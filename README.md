@@ -11,7 +11,7 @@
 ![image](https://github.com/user-attachments/assets/272cc70c-8f6e-4b9a-a9db-33ff87c597ad)
 
 
-## [Link del compilatorio de API's]([https://github.com/public-api-lists/public-api-lists.git](https://public-api-lists.github.io/public-api-lists/)) 
+## [Link del compilatorio de API's](https://public-api-lists.github.io/public-api-lists/)
 ![image](https://github.com/user-attachments/assets/23de2609-cd11-444f-9059-cfa5a5fb4460)
 
 
